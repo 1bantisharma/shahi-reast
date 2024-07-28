@@ -113,7 +113,7 @@ class Contact extends Component {
                         <iframe
                             title="Location Map"
                             className="map"
-                            src="https://www.google.com/maps/place/%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A4%9F+%E0%A4%87%E0%A4%82%E0%A4%9C%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%97+%E0%A4%95%E0%A5%89%E0%A4%B2%E0%A5%87%E0%A4%9C,+%E0%A4%B8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%80%E0%A4%AA%E0%A5%81%E0%A4%B0/@25.727556,85.7297845,17.85z/data=!4m6!3m5!1s0x39ed85495774ca1d:0x5419858c74237c33!8m2!3d25.7274956!4d85.7311804!16s%2Fg%2F11j7whpn83?entry=ttu"
+                            src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=GEC%20SAMASTIPUR,%20BIHAR+(shahirest)&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
                             style={{ width: 600, height: 450, border: 0 }}
                             allowFullScreen=""
                             aria-hidden="false"
